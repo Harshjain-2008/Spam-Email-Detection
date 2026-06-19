@@ -1,0 +1,2 @@
+# Spam Email Detection
+Spam E mail detection : this model trained to prevent users from spam emails, model trained on scikit library with accuracy details of models, it has nltk library to clean data, vectorizer. It helps in detection of fraud emails like( congratulations , you win this amount and all,) and also detect HAM mails for you just enter your email details . Model have 3 choices for 1. train model details, 2. detection of mail, 3. exit model. 
